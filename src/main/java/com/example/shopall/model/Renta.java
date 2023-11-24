@@ -2,9 +2,7 @@ package com.example.shopall.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;
-
 import javax.persistence.*;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Getter;
